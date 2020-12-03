@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/yuan/opt/anaconda3/envs/COMP9313/bin/python",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
